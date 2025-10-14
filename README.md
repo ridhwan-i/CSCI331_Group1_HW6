@@ -1,7 +1,7 @@
 # CSCI331_Group1_HW6
 This repository contains the group work for Homework 4 & 5 using the WideWorldImporters database.
 
-# Members  
+## Members  
 
 - Giorgos Stefanis  
 - Seeram Govindan  
@@ -11,12 +11,12 @@ This repository contains the group work for Homework 4 & 5 using the WideWorldIm
 - Youlun Wang  
 
 
-# Contents  
+## Contents  
 
-- Documents → Gantt chart and To-do list and FootNotes  
-- Notebooks(.ipynb) → Each member’s .ipynb file with propositions and SQL queries. Please save your file as: "Individual_GroupNumber_HW#_MemberName.PYNB" and upload it here.  
-- Videos → Youtube recordings of each groups work.  
+- ```Documents``` → Gantt chart and To-do list and FootNotes  
+- ```Notebooks(.ipynb)``` → Each member’s .ipynb file with propositions and SQL queries. Please save your file as: "Individual_GroupNumber_HW#_MemberName.PYNB" and upload it here.  
+- ```Videos``` → Youtube recordings of each groups work.  
 
 
-# Submission  
+## Submission  
 - Individual files are inside respective folders.  
