@@ -1,5 +1,5 @@
 # CSCI331_Group1_HW6
-This repository contains the group work for Homework 6 using the WideWorldImporters database.
+This repository contains the group work for Homework 6 using the AdventureWorks database.
 
 ## Members  
 
